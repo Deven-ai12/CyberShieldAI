@@ -1,0 +1,40 @@
+# ==============================
+# Java / Maven
+# ==============================
+target/
+out/
+*.class
+*.log
+
+# ==============================
+# Node / React
+# ==============================
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# ==============================
+# Environment / Secrets
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# IntelliJ IDEA
+# ==============================
+.idea/
+*.iml
+
+# IntelliJ specific files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+
+# ==============================
+# OS files
+# ==============================
+.DS_Store
+Thumbs.db

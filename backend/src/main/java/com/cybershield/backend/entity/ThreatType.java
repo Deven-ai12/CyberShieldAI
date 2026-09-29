@@ -1,0 +1,14 @@
+package com.cybershield.backend.entity;
+
+public enum ThreatType {
+    SESSION_HIJACK,
+    BANKING_FRAUD,
+    BOT_ACTIVITY,
+    ABNORMAL_TYPING,
+    ABNORMAL_MOUSE_MOVEMENT,
+    RAPID_CLICKING,
+    COPY_PASTE_FRAUD,
+    AUTOFILL_ABUSE,
+    SUSPICIOUS_TRANSACTION,
+    ACCOUNT_TAKEOVER
+}

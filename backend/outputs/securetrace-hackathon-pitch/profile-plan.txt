@@ -1,0 +1,5 @@
+Task mode: create
+Primary profile: engineering-platform
+Secondary profile: product-platform
+Proof objects: architecture map, live risk engine, behavioral analytics, demo flow, backend API/data model, adaptive-trust hard-case solution.
+Design system: dark SOC dashboard, glass panels, neon cyan/red risk emphasis, editable shapes and text.

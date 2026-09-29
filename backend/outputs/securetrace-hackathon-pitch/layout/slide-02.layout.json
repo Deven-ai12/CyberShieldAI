@@ -1,0 +1,1765 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/u5u03b",
+    "id": "u5u03b",
+    "slide": 2,
+    "layoutId": "e03175c6-ab89-4b37-aea1-c9fa75e7ebd9",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "3132186f-7d21-4a05-9524-00afd420d65e",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "e03175c6-ab89-4b37-aea1-c9fa75e7ebd9",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "3132186f-7d21-4a05-9524-00afd420d65e",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "3132186f-7d21-4a05-9524-00afd420d65e",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/onyd0z61",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#020617",
+      "lineColor": "#020617",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z25kb6xk",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#041021",
+      "lineColor": "#041021",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6hcrmhk3",
+      "id": "3",
+      "bbox": [
+        0,
+        0,
+        1,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#102B44",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dg7adsji",
+      "id": "4",
+      "bbox": [
+        80,
+        0,
+        1,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#081D31",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ovahoza1",
+      "id": "5",
+      "bbox": [
+        160,
+        0,
+        1,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#081D31",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vahoza1g",
+      "id": "6",
+      "bbox": [
+        240,
+        0,
+        1,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#102B44",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6tovahoz",
+      "id": "7",
+      "bbox": [
+        320,
+        0,
+        1,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#081D31",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dsji5sne",
+      "id": "8",
+      "bbox": [
+        400,
+        0,
+        1,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#081D31",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o7qpg3ex",
+      "id": "9",
+      "bbox": [
+        480,
+        0,
+        1,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#102B44",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q5o7qpg3",
+      "id": "10",
+      "bbox": [
+        560,
+        0,
+        1,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#081D31",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jqh0fepk",
+      "id": "11",
+      "bbox": [
+        640,
+        0,
+        1,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#081D31",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8bat47y1",
+      "id": "12",
+      "bbox": [
+        720,
+        0,
+        1,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#102B44",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1w7mp0bi",
+      "id": "13",
+      "bbox": [
+        800,
+        0,
+        1,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#081D31",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qh0fepkz",
+      "id": "14",
+      "bbox": [
+        880,
+        0,
+        1,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#081D31",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j2t83itg",
+      "id": "15",
+      "bbox": [
+        960,
+        0,
+        1,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#102B44",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8nqxs72x",
+      "id": "16",
+      "bbox": [
+        1040,
+        0,
+        1,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#081D31",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18jqh0fe",
+      "id": "17",
+      "bbox": [
+        1120,
+        0,
+        1,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#081D31",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ulwval87",
+      "id": "18",
+      "bbox": [
+        1200,
+        0,
+        1,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#102B44",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j6tovaho",
+      "id": "19",
+      "bbox": [
+        1280,
+        0,
+        1,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#081D31",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b2hwfyxo",
+      "id": "20",
+      "bbox": [
+        0,
+        0,
+        1280,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#102B44",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mhk3q5o7",
+      "id": "21",
+      "bbox": [
+        0,
+        80,
+        1280,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#081D31",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t83itgfm",
+      "id": "22",
+      "bbox": [
+        0,
+        160,
+        1280,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#081D31",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4nap4r65",
+      "id": "23",
+      "bbox": [
+        0,
+        240,
+        1280,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#102B44",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bq1oryts",
+      "id": "24",
+      "bbox": [
+        0,
+        320,
+        1280,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#081D31",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m58z25kb",
+      "id": "25",
+      "bbox": [
+        0,
+        400,
+        1280,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#081D31",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/twra5gbq",
+      "id": "26",
+      "bbox": [
+        0,
+        480,
+        1280,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#102B44",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4byhgn29",
+      "id": "27",
+      "bbox": [
+        0,
+        560,
+        1280,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#081D31",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bm58z25k",
+      "id": "28",
+      "bbox": [
+        0,
+        640,
+        1280,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#081D31",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1cfa9w3",
+      "id": "29",
+      "bbox": [
+        0,
+        720,
+        1280,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#102B44",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wval87ed",
+      "id": "30",
+      "bbox": [
+        930,
+        -100,
+        470,
+        470
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#081A30",
+      "lineColor": "#2563EB",
+      "lineWidth": 2
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pg3ex0nu",
+      "id": "31",
+      "bbox": [
+        990,
+        -42,
+        350,
+        350
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#061222",
+      "lineColor": "#22D3EE",
+      "lineWidth": 1
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/epkzupwb",
+      "id": "32",
+      "bbox": [
+        48,
+        54,
+        62,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#22D3EE",
+      "lineColor": "#22D3EE",
+      "lineWidth": 0
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7adsji5s",
+      "id": "33",
+      "bbox": [
+        48,
+        674,
+        420,
+        24
+      ],
+      "geometry": "rect",
+      "text": "PROBLEM",
+      "textPreview": "PROBLEM",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PROBLEM"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PROBLEM",
+          "runs": [
+            {
+              "index": 1,
+              "text": "PROBLEM",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#8EA3B8",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w7mp0bi9",
+      "id": "34",
+      "bbox": [
+        1182,
+        674,
+        50,
+        24
+      ],
+      "geometry": "rect",
+      "text": "02",
+      "textPreview": "02",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02",
+          "runs": [
+            {
+              "index": 1,
+              "text": "02",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#8EA3B8",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/psfil0rq",
+      "id": "35",
+      "bbox": [
+        48,
+        78,
+        560,
+        26
+      ],
+      "geometry": "rect",
+      "text": "THE PROBLEM",
+      "textPreview": "THE PROBLEM",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "THE PROBLEM"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "THE PROBLEM",
+          "runs": [
+            {
+              "index": 1,
+              "text": "THE PROBLEM",
+              "fontSize": 14,
+              "typeface": "Aptos",
+              "color": "#22D3EE",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e1w7mp0b",
+      "id": "36",
+      "bbox": [
+        48,
+        116,
+        760,
+        114
+      ],
+      "geometry": "rect",
+      "text": "Banks secure login. Attackers exploit the session after login.",
+      "textPreview": "Banks secure login. Attackers exploit the session after login.",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Aptos Display",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Banks secure login. Attackers exploit the"
+          },
+          {
+            "index": 2,
+            "text": "session after login."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Banks secure login. Attackers exploit the session after login.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Banks secure login. Attackers exploit the session after login.",
+              "fontSize": 42,
+              "typeface": "Aptos Display",
+              "color": "#F8FBFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7mp0bi9s",
+      "id": "37",
+      "bbox": [
+        50,
+        250,
+        720,
+        62
+      ],
+      "geometry": "rect",
+      "text": "Most fraud controls ask: was the password correct? SecureTrace asks the harder question every few seconds: does this session still behave like the real customer?",
+      "textPreview": "Most fraud controls ask: was the password correct? SecureTrace asks the harder question every few seconds: does this session still behave...",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Most fraud controls ask: was the password correct? SecureTrace asks the harder"
+          },
+          {
+            "index": 2,
+            "text": "question every few seconds: does this session still behave like the real customer?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Most fraud controls ask: was the password correct? SecureTrace asks the harder question every few seconds: does this session still behave like the real customer?",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Most fraud controls ask: was the password correct? SecureTrace asks the harder question every few seconds: does this session still behave like the real customer?",
+              "fontSize": 21,
+              "typeface": "Aptos",
+              "color": "#8EA3B8"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wfyxobm5",
+      "id": "38",
+      "bbox": [
+        52,
+        358,
+        344,
+        204
+      ],
+      "geometry": "rect",
+      "fillColor": "#06101D",
+      "lineColor": "#FB3856",
+      "lineWidth": 1
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l0rqd4vm",
+      "id": "39",
+      "bbox": [
+        54,
+        360,
+        340,
+        200
+      ],
+      "geometry": "rect",
+      "fillColor": "#0B1425",
+      "lineColor": "#244763",
+      "lineWidth": 1
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4byhgn2",
+      "id": "40",
+      "bbox": [
+        54,
+        360,
+        340,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#FB3856",
+      "lineColor": "#FB3856",
+      "lineWidth": 0
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sji5snel",
+      "id": "41",
+      "bbox": [
+        78,
+        386,
+        260,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Classic fraud blind spots",
+      "textPreview": "Classic fraud blind spots",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Classic fraud blind spots"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Classic fraud blind spots",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Classic fraud blind spots",
+              "fontSize": 22,
+              "typeface": "Aptos",
+              "color": "#F8FBFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 42,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ylc7u54",
+      "id": "42",
+      "bbox": [
+        80,
+        439,
+        10,
+        10
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FB3856",
+      "lineColor": "#FB3856",
+      "lineWidth": 0
+    },
+    {
+      "order": 43,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/adsji5sn",
+      "id": "43",
+      "bbox": [
+        104,
+        432,
+        246,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Session cookie theft",
+      "textPreview": "Session cookie theft",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Session cookie theft"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Session cookie theft",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Session cookie theft",
+              "fontSize": 16,
+              "typeface": "Aptos",
+              "color": "#D7E7F5"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 44,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lszqtcj6",
+      "id": "44",
+      "bbox": [
+        80,
+        470,
+        10,
+        10
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FB3856",
+      "lineColor": "#FB3856",
+      "lineWidth": 0
+    },
+    {
+      "order": 45,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s72x4nap",
+      "id": "45",
+      "bbox": [
+        104,
+        463,
+        246,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Remote access takeover",
+      "textPreview": "Remote access takeover",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Remote access takeover"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Remote access takeover",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Remote access takeover",
+              "fontSize": 16,
+              "typeface": "Aptos",
+              "color": "#D7E7F5"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 46,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3m94fu18",
+      "id": "46",
+      "bbox": [
+        80,
+        501,
+        10,
+        10
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FB3856",
+      "lineColor": "#FB3856",
+      "lineWidth": 0
+    },
+    {
+      "order": 47,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a5gbq1or",
+      "id": "47",
+      "bbox": [
+        104,
+        494,
+        246,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Credential stuffing",
+      "textPreview": "Credential stuffing",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Credential stuffing"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Credential stuffing",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Credential stuffing",
+              "fontSize": 16,
+              "typeface": "Aptos",
+              "color": "#D7E7F5"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 48,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hoza1gvy",
+      "id": "48",
+      "bbox": [
+        80,
+        532,
+        10,
+        10
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FB3856",
+      "lineColor": "#FB3856",
+      "lineWidth": 0
+    },
+    {
+      "order": 49,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s36hcrmh",
+      "id": "49",
+      "bbox": [
+        104,
+        525,
+        246,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Copy-paste money mule fraud",
+      "textPreview": "Copy-paste money mule fraud",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Copy-paste money mule fraud"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Copy-paste money mule fraud",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Copy-paste money mule fraud",
+              "fontSize": 16,
+              "typeface": "Aptos",
+              "color": "#D7E7F5"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 50,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2x4nap4r",
+      "id": "50",
+      "bbox": [
+        468,
+        358,
+        344,
+        204
+      ],
+      "geometry": "rect",
+      "fillColor": "#06101D",
+      "lineColor": "#F59E0B",
+      "lineWidth": 1
+    },
+    {
+      "order": 51,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vixczed8",
+      "id": "51",
+      "bbox": [
+        470,
+        360,
+        340,
+        200
+      ],
+      "geometry": "rect",
+      "fillColor": "#0B1425",
+      "lineColor": "#244763",
+      "lineWidth": 1
+    },
+    {
+      "order": 52,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k3q5o7qp",
+      "id": "52",
+      "bbox": [
+        470,
+        360,
+        340,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#F59E0B",
+      "lineColor": "#F59E0B",
+      "lineWidth": 0
+    },
+    {
+      "order": 53,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/donyd0z6",
+      "id": "53",
+      "bbox": [
+        494,
+        386,
+        260,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Why it is hard",
+      "textPreview": "Why it is hard",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Why it is hard"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Why it is hard",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Why it is hard",
+              "fontSize": 22,
+              "typeface": "Aptos",
+              "color": "#F8FBFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 54,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6psfil0r",
+      "id": "54",
+      "bbox": [
+        496,
+        439,
+        10,
+        10
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#F59E0B",
+      "lineColor": "#F59E0B",
+      "lineWidth": 0
+    },
+    {
+      "order": 55,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/val87ed8",
+      "id": "55",
+      "bbox": [
+        520,
+        432,
+        246,
+        24
+      ],
+      "geometry": "rect",
+      "text": "The attacker may know the password",
+      "textPreview": "The attacker may know the password",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The attacker may know the password"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The attacker may know the password",
+          "runs": [
+            {
+              "index": 1,
+              "text": "The attacker may know the password",
+              "fontSize": 16,
+              "typeface": "Aptos",
+              "color": "#D7E7F5"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 56,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kre1w7mp",
+      "id": "56",
+      "bbox": [
+        496,
+        470,
+        10,
+        10
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#F59E0B",
+      "lineColor": "#F59E0B",
+      "lineWidth": 0
+    },
+    {
+      "order": 57,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcbulwva",
+      "id": "57",
+      "bbox": [
+        520,
+        463,
+        246,
+        24
+      ],
+      "geometry": "rect",
+      "text": "The device may look legitimate",
+      "textPreview": "The device may look legitimate",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The device may look legitimate"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The device may look legitimate",
+          "runs": [
+            {
+              "index": 1,
+              "text": "The device may look legitimate",
+              "fontSize": 16,
+              "typeface": "Aptos",
+              "color": "#D7E7F5"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 58,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lszqtcj",
+      "id": "58",
+      "bbox": [
+        496,
+        501,
+        10,
+        10
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#F59E0B",
+      "lineColor": "#F59E0B",
+      "lineWidth": 0
+    },
+    {
+      "order": 59,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v6psfil0",
+      "id": "59",
+      "bbox": [
+        520,
+        494,
+        246,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Fraud often happens in seconds",
+      "textPreview": "Fraud often happens in seconds",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Fraud often happens in seconds"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Fraud often happens in seconds",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Fraud often happens in seconds",
+              "fontSize": 16,
+              "typeface": "Aptos",
+              "color": "#D7E7F5"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 60,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nuxc3ylc",
+      "id": "60",
+      "bbox": [
+        496,
+        532,
+        10,
+        10
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#F59E0B",
+      "lineColor": "#F59E0B",
+      "lineWidth": 0
+    },
+    {
+      "order": 61,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y90je9cv",
+      "id": "61",
+      "bbox": [
+        520,
+        525,
+        246,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Manual review arrives too late",
+      "textPreview": "Manual review arrives too late",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Manual review arrives too late"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Manual review arrives too late",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Manual review arrives too late",
+              "fontSize": 16,
+              "typeface": "Aptos",
+              "color": "#D7E7F5"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 62,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5wjudg7a",
+      "id": "62",
+      "bbox": [
+        884,
+        358,
+        294,
+        204
+      ],
+      "geometry": "rect",
+      "fillColor": "#06101D",
+      "lineColor": "#22D3EE",
+      "lineWidth": 1
+    },
+    {
+      "order": 63,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gbq1oryt",
+      "id": "63",
+      "bbox": [
+        886,
+        360,
+        290,
+        200
+      ],
+      "geometry": "rect",
+      "fillColor": "#0B1425",
+      "lineColor": "#244763",
+      "lineWidth": 1
+    },
+    {
+      "order": 64,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n29gr2p8",
+      "id": "64",
+      "bbox": [
+        886,
+        360,
+        290,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#22D3EE",
+      "lineColor": "#22D3EE",
+      "lineWidth": 0
+    },
+    {
+      "order": 65,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yhgn29gr",
+      "id": "65",
+      "bbox": [
+        910,
+        386,
+        230,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Hackathon wedge",
+      "textPreview": "Hackathon wedge",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Hackathon wedge"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Hackathon wedge",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Hackathon wedge",
+              "fontSize": 22,
+              "typeface": "Aptos",
+              "color": "#F8FBFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 66,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58z25kb6",
+      "id": "66",
+      "bbox": [
+        910,
+        432,
+        222,
+        90
+      ],
+      "geometry": "rect",
+      "text": "Turn invisible behavior into a live security signal that can stop fraud before the transfer is completed.",
+      "textPreview": "Turn invisible behavior into a live security signal that can stop fraud before the transfer is completed.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Turn invisible behavior into a"
+          },
+          {
+            "index": 2,
+            "text": "live security signal that can"
+          },
+          {
+            "index": 3,
+            "text": "stop fraud before the transfer"
+          },
+          {
+            "index": 4,
+            "text": "is completed."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Turn invisible behavior into a live security signal that can stop fraud before the transfer is completed.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Turn invisible behavior into a live security signal that can stop fraud before the transfer is completed.",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#D7E7F5"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}
